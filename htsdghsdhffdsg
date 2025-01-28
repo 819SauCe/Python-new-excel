@@ -1,1 +1,1 @@
-https://identity.getpostman.com/login?addAccount=1&auth_challenge=0d0ea9c61c7b584a48863aa706a9e0257d83485b3628b2907f0b015c0551430f&auth_device=app_native&auth_device_version=11.29.5
+https://identity.getpostman.com/client-auth/confirm?auth_challenge=0d0ea9c61c7b584a48863aa706a9e0257d83485b3628b2907f0b015c0551430f&auth_device=app_native&auth_device_version=11.29.5
